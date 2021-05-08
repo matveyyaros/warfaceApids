@@ -1,5 +1,5 @@
 
-TOKEN='ODMzMjI3ODUwNjg4NzU3Nzgy.YHvR6A.evzoapQACtiTASChpgK7jSUt6ac'
+TOKEN='token here'
 
 prefix='#'
 
