@@ -1,2 +1,2 @@
 # warfaceApids
-info about Ru Warface jo discord
+info about Ru Warface to discord
